@@ -1,0 +1,6 @@
+plate = input("what is your food \n")
+print("i like that food " , plate)
+plate2 = input("what is your food\n")
+print("i like that food plate2",plate2) 
+plate3 = input("what is your food\n")
+print("i like that food plate3,plate3")
